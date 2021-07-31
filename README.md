@@ -128,7 +128,4 @@ Give a ⭐️ if you like this project!
 
 ### Attributions
 
-
-* Kenny for the game [assets](https://kenney.nl/assets/jumper-pack)
-Donate to him [here](http://donate.kenney.nl)
-* Ourcade for the tutorial and the free ebook on phaser
+Some of the webpack Plugins and loaders are from the template found here :point_right: [Click me for the template](https://github.com/photonstorm/phaser3-project-template)
